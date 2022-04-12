@@ -1,0 +1,63 @@
+body {
+    margin: 0 0 0 0;
+}
+
+body > div {
+    width: 100vh;
+    height: 100vh;
+    background-color: #880E4F;
+}
+
+body > div > div {
+    width: 90vh;
+    height: 90vh;
+    background-color: #AD1457;
+}
+
+body > div > div > div {
+    width: 80vh;
+    height: 80vh;
+    background-color: #C2185B;
+}
+
+body > div > div > div > div{
+    width: 70vh;
+    height: 70vh;
+    background-color: #D81B60;
+}
+
+body > div > div > div > div > div {
+    width: 60vh;
+    height: 60vh;
+    background-color: #E91E63; 
+}
+
+body > div > div > div > div > div > div {
+    width: 50vh;
+    height: 50vh;
+    background-color: #EC407A;
+}
+
+body > div > div > div > div > div > div > div {
+    width: 40vh;
+    height: 40vh;
+    background-color: #F06292;
+}
+
+body > div > div > div > div > div > div > div > div {
+    width: 30vh;
+    height: 30vh;
+    background-color: #F48FB1;
+}
+
+body > div > div > div > div > div > div > div > div > div {
+    width: 20vh;
+    height: 20vh;
+    background-color: #F8BBD0;
+}
+
+body > div > div > div > div > div > div > div > div > div > div {
+    width: 10vh;
+    height: 10vh;
+    background-color: #FCE4EC;
+}
