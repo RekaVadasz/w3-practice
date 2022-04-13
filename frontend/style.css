@@ -12,6 +12,7 @@ body > div > div {
     width: 90vh;
     height: 90vh;
     background-color: #AD1457;
+    
 }
 
 body > div > div > div {
@@ -60,4 +61,8 @@ body > div > div > div > div > div > div > div > div > div > div {
     width: 10vh;
     height: 10vh;
     background-color: #FCE4EC;
+}
+
+div > div {
+    transform: translate(5vh, 5vh);
 }
